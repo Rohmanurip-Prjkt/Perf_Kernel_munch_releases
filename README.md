@@ -9,7 +9,7 @@ Perf+ kernel has several variants:
 • NOKSU  
   Kernel build without KernelSU.
 
-• RKSU
+• RKSU  
   Come with Rissu KernelSU by @rsuntk.  
   New methode root fork KernelSU support GKI & NON-GKI
 
@@ -24,8 +24,9 @@ Perf+ kernel has several variants:
 ***ROM Variants:***
 
 • Non-BPF (without BPF tag)  
-  Support: AOSP (Android 12–16)
-           MIUI/HyperOS (Android 12–15) but does not provide full support on MIUI/HyperOS
+  Support:  
+  AOSP (Android 12–16)  
+  MIUI/HyperOS (Android 12–15) but does not provide full support on MIUI/HyperOS
 
 • BPF  
   HyperOS A16, GSI builds & and any A16 needed BPF support
