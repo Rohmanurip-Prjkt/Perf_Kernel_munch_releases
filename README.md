@@ -6,11 +6,11 @@ Perf+ kernel has several variants:
 
 ***ROOT VARIANTS:***
 
-• NOKSU
+• NOKSU  
   Kernel build without KernelSU.
 
 • RKSU
-  Come with Rissu KernelSU by @rsuntk.
+  Come with Rissu KernelSU by @rsuntk.  
   New methode root fork KernelSU support GKI & NON-GKI
 
 • NEXT  
