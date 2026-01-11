@@ -46,16 +46,13 @@ You flash this kernel with your own risk. Make sure to create a stock kernel bac
 ---
 
 **Credits:**
-@SenseiiX
-@bimoalfarrabi
-@kenaidi01
-@rsuntk
-@tiann
-@rifsxd
-@EmanuelCN
-@hdzungx
-@simonpunk & @sidex15
-@kvsnr113
-@osm0sis
-and All Tester who support it
+@SenseiiX for teach how build kernel  
+@bimoalfarrabi, @kvsnr113 & @kenaidi01 for helping   
+@rsuntk for RKSU  
+@tiann for base KernelSU  
+@rifsxd for KernelSU Next  
+@EmanuelCN & @hdzungx for base tree kernel  
+@simonpunk & @sidex15 for susfs  
+@osm0sis for AnyKernel Framework  
+and All Tester who support it.
 
