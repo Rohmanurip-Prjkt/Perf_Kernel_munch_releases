@@ -8,9 +8,7 @@ Perf+ kernel has several variants:
   Kernel build without KernelSU.
 
 • RKSU
-
   Come with Rissu KernelSU by @rsuntk.
-  
   New methode root fork KernelSU support GKI & NON-GKI
 
 • NEXT  
@@ -24,12 +22,10 @@ Perf+ kernel has several variants:
 ***ROM Variants:***
 
 • Non-BPF (without BPF tag)  
-  
   Support: AOSP (Android 12–16)
            MIUI/HyperOS (Android 12–15) but does not provide full support on MIUI/HyperOS
 
 • BPF  
-  
   HyperOS A16, GSI builds & and any A16 needed BPF support
 
 ***Extras (Incremental)***
@@ -39,34 +35,21 @@ Perf+ kernel has several variants:
 
 
 **##Disclaimer!**
-
 You flash this kernel with your own risk. Make sure to create a stock kernel backup before installation.
-
 **I AM NOT RESPONSIBLE IF YOUR DEVICE GETS BRICKED!**
 
 ---
 
 **Credits:**
-
 @SenseiiX
-
 @bimoalfarrabi
-
 @kenaidi01
-
 @rsuntk
-
 @tiann
-
 @rifsxd
-
 @EmanuelCN
-
 @simonpunk & @sidex15
-
 @kvsnr113
-
 @osm0sis
-
 and All Tester who support it
 
