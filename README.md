@@ -45,7 +45,7 @@ You flash this kernel with your own risk. Make sure to create a stock kernel bac
 
 ---
 
-**Credits:**
+**Credits:**  
 @SenseiiX for teach how build kernel  
 @bimoalfarrabi, @kvsnr113 & @kenaidi01 for helping   
 @rsuntk for RKSU  
