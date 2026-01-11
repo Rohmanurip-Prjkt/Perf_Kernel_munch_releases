@@ -53,6 +53,7 @@ You flash this kernel with your own risk. Make sure to create a stock kernel bac
 @tiann
 @rifsxd
 @EmanuelCN
+@hdzungx
 @simonpunk & @sidex15
 @kvsnr113
 @osm0sis
