@@ -1,4 +1,4 @@
-**#Perf+ Kernel for Perfect**
+**# Perf+ Kernel for Perfect**
 
 Balanced kernel for daily and gaming
 
@@ -37,7 +37,7 @@ Perf+ kernel has several variants:
   OEM ports (OOS, MyUI, NOS — Android 12–15)
 
 
-**##Disclaimer!**
+**# Disclaimer!**
 
 You flash this kernel with your own risk. Make sure to create a stock kernel backup before installation.
 
