@@ -26,7 +26,7 @@ Perf+ kernel has several variants:
 • Non-BPF (without BPF tag)  
   Support:  
   AOSP (Android 12–16)  
-  MIUI/HyperOS (Android 12–15) but does not provide full support on MIUI/HyperOS
+  MIUI/HyperOS (Android 12–15)
 
 • BPF  
   HyperOS A16, GSI builds & and any A16 needed BPF support
