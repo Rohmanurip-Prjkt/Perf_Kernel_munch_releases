@@ -1,3 +1,5 @@
+![20260127_012728](https://github.com/user-attachments/assets/2e302054-6e93-4aaf-94b7-554670fcc0ce)
+
 # Perf+ Kernel for Perfect
 
 Balanced kernel for daily and gaming
